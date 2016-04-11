@@ -4,11 +4,11 @@ Transpostiotion cipher mengenkripksi pesan dengan mengatur ulang posisi tiap kar
 <br>![alt tag](https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/P%201.JPG)</br>
 <br>Ciphertext : IKULOTMMEUPR</br>
 <br>![alt tag](https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/C%201.JPG)</br>
-<br>Contoh lainnya apabila panjang baris terakhir tidak memenuhi kapasitas matriks<b/r>
-<br>Plaintext : ILMUKOMPUTERUGM </br>
-<br>akan diubah terlebih dahulu menjadi</br>
->ILMUKOMPUTERUGMA
+<br>Contoh lainnya apabila panjang baris terakhir tidak memenuhi kapasitas matriks</br>
+<br>Plaintext : "ILMUKOMPUTERUGM" akan diubah terlebih dahulu menjadi "ILMUKOMPUTERUGMA"</br>
 <br>![alt tag](https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/P%202.JPG)</br>
 <br>Ciphertext: IKUULOTGMMEMUPRA</br>
 <br>![alt tag](https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/C%202.JPG)</br>
-<br>Source code untuk enkripsi dapat dilihat pada [halaman ini] (https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/app/src/main/java/com/lucgu/tugaskriptografi/EncryptActivity.java)</br>
+<br>Source code untuk **enkripsi** dapat dilihat pada [halaman ini] (https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/app/src/main/java/com/lucgu/tugaskriptografi/EncryptActivity.java)</br>
+
+<br>Source code untuk **dekripsi** dapat dilihat pada [halaman ini] (https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/app/src/main/java/com/lucgu/tugaskriptografi/DecryptActivity.java)</br>
