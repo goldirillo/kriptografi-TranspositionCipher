@@ -9,8 +9,14 @@ Transpostiotion cipher mengenkripksi pesan dengan mengatur ulang posisi tiap kar
 <br>![alt tag](https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/P%202.JPG)</br>
 <br>Ciphertext: **IKUULOTGMMEMUPRA**</br>
 <br>![alt tag](https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/C%202.JPG)</br>
+
+
+## Aplikasi
+
+Transposition cipher dibuat dalam bentuk aplikasi dengan platform andoid. Untuk mencoba aplikasi ini, file .apk dapat diunduh [di sini.] (https://github.com/goldirillo/kriptografi-TranspositionCipher/tree/master/apk)
 <br>Source code untuk **enkripsi** dapat dilihat pada [halaman ini.] (https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/app/src/main/java/com/lucgu/tugaskriptografi/EncryptActivity.java)</br>
 Source code untuk **dekripsi** dapat dilihat pada [halaman ini.] (https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/app/src/main/java/com/lucgu/tugaskriptografi/DecryptActivity.java)
+
 ## Tampilan Aplikasi
 
 <br><img src="https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/device-2016-04-11-154256.png" width="400"></br>
