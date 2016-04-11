@@ -9,6 +9,5 @@ Transpostiotion cipher mengenkripksi pesan dengan mengatur ulang posisi tiap kar
 <br>![alt tag](https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/P%202.JPG)</br>
 <br>Ciphertext: IKUULOTGMMEMUPRA</br>
 <br>![alt tag](https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/C%202.JPG)</br>
-<br>Source code untuk **enkripsi** dapat dilihat pada [halaman ini] (https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/app/src/main/java/com/lucgu/tugaskriptografi/EncryptActivity.java)</br>
-
-<br>Source code untuk **dekripsi** dapat dilihat pada [halaman ini] (https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/app/src/main/java/com/lucgu/tugaskriptografi/DecryptActivity.java)</br>
+<br>Source code untuk **enkripsi** dapat dilihat pada [halaman ini]. (https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/app/src/main/java/com/lucgu/tugaskriptografi/EncryptActivity.java)</br>
+Source code untuk **dekripsi** dapat dilihat pada [halaman ini]. (https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/app/src/main/java/com/lucgu/tugaskriptografi/DecryptActivity.java)
