@@ -15,8 +15,7 @@ Source code untuk **dekripsi** dapat dilihat pada [halaman ini.] (https://github
 
 <br><img src="https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/device-2016-04-11-154256.png" width="400"></br>
 
-<img src="https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/device-2016-04-11-154134.png" width="400">
-
+<img src="https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/device-2016-04-11-154338.png" width="400
 <img src="https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/device-2016-04-11-154313.png" width="400">
-<img src="https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/device-2016-04-11-154338.png" width="400">
+<img src="https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/device-2016-04-11-154134.png" width="400">
 <img src="https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/device-2016-04-11-154835.png" width="400">
