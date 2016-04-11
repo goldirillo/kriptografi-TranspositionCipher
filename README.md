@@ -11,3 +11,10 @@ Transpostiotion cipher mengenkripksi pesan dengan mengatur ulang posisi tiap kar
 <br>![alt tag](https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/C%202.JPG)</br>
 <br>Source code untuk **enkripsi** dapat dilihat pada [halaman ini.] (https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/app/src/main/java/com/lucgu/tugaskriptografi/EncryptActivity.java)</br>
 Source code untuk **dekripsi** dapat dilihat pada [halaman ini.] (https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/app/src/main/java/com/lucgu/tugaskriptografi/DecryptActivity.java)
+## Tampilan Aplikasi
+
+![alt tag](https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/device-2016-04-11-154134.png)
+![alt tag](https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/device-2016-04-11-154256.png)
+![alt tag](https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/device-2016-04-11-154313.png)
+![alt tag](https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/device-2016-04-11-154338.png)
+![alt tag](https://github.com/goldirillo/kriptografi-TranspositionCipher/blob/master/screenshoot/device-2016-04-11-154835.png)
